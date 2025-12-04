@@ -1,0 +1,10 @@
+{
+  "selenium": {
+    "disabled": true,
+    "defaultTimeout": 60,
+    "pollingInterval": 5,
+    "lambdatest": {
+      "url": "https://${LT_USERNAME}:${LT_ACCESS_KEY}@hub.lambdatest.com/wd/hub"
+    }
+  }
+}
