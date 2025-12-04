@@ -1,7 +1,3 @@
-<img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/9418dc23-3322-4bd0-a7d6-bea66647a436" />
-<div align="center">Image generated using AI</a></div>
-<br/>
-
 In this 'Web & Mobile automation with Reqnroll Framework' repo, we have covered the usage of the [Reqnroll Framework](reqnroll.net) to automate tests on the LambdaTest platform.
 
 ## Steps for test execution
