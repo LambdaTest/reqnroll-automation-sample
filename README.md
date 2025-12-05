@@ -1,4 +1,4 @@
-In this 'Web & Mobile automation with Reqnroll Framework' repo, we have covered the usage of the [Reqnroll Framework](reqnroll.net) to automate the following tests on LambdaTest:
+In this 'Web & Mobile automation with Reqnroll Framework' repo, we have covered the usage of the [Reqnroll Framework](https://www.reqnroll.net) to automate the following tests on LambdaTest:
 
 | Automation | ReadMe Link |
 |---------|-------|
